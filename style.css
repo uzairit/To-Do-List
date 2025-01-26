@@ -19,6 +19,15 @@
 
   #header {
       display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 25px;
+      color: #0D6EFD;
+  }
+
+
+  #inputDiv {
+      display: flex;
   }
 
   input[type="text"] {
